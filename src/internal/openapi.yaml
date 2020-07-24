@@ -1,6 +1,6 @@
 openapi: 3.0.0
 info: 
-  title: Link Example
+  title: BA-32 TRAINING SAMPLE
   version: 1.0.0
 paths: 
   /2.0/users/{username}: 
